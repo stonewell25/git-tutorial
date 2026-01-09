@@ -31,7 +31,7 @@ git checkout HEAD~1
 ```
 > We will explain *checkout* in later sections, but for now, this command allows you to switch to a specific commit. `HEAD~1` refers to the commit just before the latest one.
 
-After running the above command, you will find that the content you just added is no longer there because you have switched to the previous commit.
+After running the above command, you will find that the content :arrow_up: you just added is no longer there because you have switched to the previous commit.
 
 To return to the latest commit, run:
 ``` bash
